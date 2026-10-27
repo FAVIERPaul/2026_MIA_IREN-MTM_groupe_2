@@ -1,5 +1,7 @@
 # Projet Final — Méthodologies de l’IA Générative (2026-2027)
+
 **Groupe 2 - Nina, Chloé, Lucie, Victoire, Tawba**
+
 **Université Paris Dauphine - PSL**  
 **Master SIREN (Parcours IREN / MTM)**
 
